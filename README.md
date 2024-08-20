@@ -1,1 +1,2 @@
-# Text_Summarizer
+# A docker app for AWS lambda 
+
